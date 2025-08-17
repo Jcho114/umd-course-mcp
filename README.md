@@ -2,6 +2,8 @@
 
 API wrappers over [PlanetTerp](https://planetterp.com/) and [UMDIO](https://beta.umd.io/) that lets LLMs make more up to date and informed decisions on all things UMD, at least academically.
 
+![Dumb Thumbnail](dumb-thumbnail.png)
+
 ## How To Use
 
 You can test in Claude Desktop using this [tutorial](https://modelcontextprotocol.io/quickstart/server#testing-your-server-with-claude-for-desktop) and it doesn't take that long.
