@@ -91,7 +91,7 @@ async def get_grades(
 
     Inputs:
     - course (str, optional): e.g., MATH410
-    - professor (str, optional): e.g., Jon Snow, usually has to be the full name of the professor, call get_all_professors tool for clues if need be
+    - professor (str, optional): e.g., Jon Snow, usually has to be the full name of the professor, call list_professors tool for clues if need be, or call get_a_course if you know the course they teach as well
     - semester (str, optional): Show only grades for the given semester. Semester should be provided as the year followed by the semester code. 01 means Spring and 08 means Fall. For example, 202001 means Spring 2020. Default: all semesters
     - section (str, optional): e.g., 0101
     """
